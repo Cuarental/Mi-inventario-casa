@@ -1,5 +1,5 @@
 {
-  "name": "Mi Inventario de Casa — v6 Suprema+",
+  "name": "Mi Inventario de Casa v8 MEGA",
   "short_name": "Mi Inventario",
   "start_url": "./",
   "scope": "./",
@@ -7,7 +7,7 @@
   "background_color": "#f4f7fb",
   "theme_color": "#0f766e",
   "lang": "es",
-  "description": "Inventario doméstico inteligente con cámara, tickets, voz, caducidades y recetas.",
+  "description": "Inventario doméstico inteligente v8 MEGA",
   "icons": [
     {
       "src": "icon-192.png",
